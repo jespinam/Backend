@@ -1,0 +1,14 @@
+C:\Users\jesic\source\repos\restaurant\restaurant\bin\Debug\netcoreapp2.1\restaurant.deps.json
+C:\Users\jesic\source\repos\restaurant\restaurant\bin\Debug\netcoreapp2.1\restaurant.runtimeconfig.json
+C:\Users\jesic\source\repos\restaurant\restaurant\bin\Debug\netcoreapp2.1\restaurant.runtimeconfig.dev.json
+C:\Users\jesic\source\repos\restaurant\restaurant\bin\Debug\netcoreapp2.1\restaurant.dll
+C:\Users\jesic\source\repos\restaurant\restaurant\bin\Debug\netcoreapp2.1\restaurant.pdb
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.csprojAssemblyReference.cache
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.RazorAssemblyInfo.cache
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.RazorAssemblyInfo.cs
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.AssemblyInfoInputs.cache
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.AssemblyInfo.cs
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.RazorTargetAssemblyInfo.cache
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.dll
+C:\Users\jesic\source\repos\restaurant\restaurant\obj\Debug\netcoreapp2.1\restaurant.pdb
